@@ -1,0 +1,14 @@
+<!-- Về nhà xem video + làm bài tập theo  -->
+<!-- ********************************************* -->
+<!-- Khởi tạo dự án  -->
+<!-- npx create-react-app projectName  -->
+
+<!-- ********************************************* -->
+
+<!-- Thư viện webpack để chạy web -->
+<!-- Terminal => npm-start  -->
+
+<!-- Đóng gói, giảm dung lượng để chạy lên web  -->
+<!-- Terminal => npm run build -->
+
+What is NPM?
